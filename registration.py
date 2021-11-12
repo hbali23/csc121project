@@ -4,7 +4,7 @@
 
 
 class Registration:
-    def __init__(self): #I'm adding stuff blah blah
+    def __init__(self): 
         pass
 
 
