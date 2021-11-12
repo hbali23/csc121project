@@ -8,7 +8,7 @@ class Registration:
         pass
 
 
-    def add_course(self, id, c_roster, c_max_size):
+    def add_course(self, id, c_roster, c_max_size): #this is mefake123 writing this
         # ------------------------------------------------------------
         # This function adds a student to a course.  It has three
         # parameters: id is the ID of the student to be added; c_roster is the
