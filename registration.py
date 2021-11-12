@@ -4,7 +4,7 @@
 
 
 class Registration:
-    def __init__(self): #I'm going to add this comment to the constructor from hbali23
+    def __init__(self): 
         pass
 
 
