@@ -22,6 +22,7 @@ class Registration:
         # roster and display a message if there is no problem.  This
         # function has no return value.
         pass
+        return
 
 
     def drop_course(self, id, c_roster):
@@ -35,6 +36,8 @@ class Registration:
         # Remove student ID from the course’s roster and display a message
         # if there is no problem.  This function has no return value.
        pass
+       return
+
 
 
     def list_courses(self, id, c_roster):
@@ -55,6 +58,7 @@ class Registration:
         # This function returns the number of course hours and tuition
         # cost.
         pass
+        return
 
 
     def display_hours_and_bill(self, hours, cost):
